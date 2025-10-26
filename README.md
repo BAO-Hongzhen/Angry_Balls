@@ -70,14 +70,18 @@ SimpleGame      # Game class - overall logic control
 ## 📝 Update Log
 
 ### v1.5 - Stable Base Version
-- v1.1 ✅ Basic gesture control
--      ✅ Physics engine
--      ✅ Collision detection
--      ✅ Transparent background, players can see themselves
-- v1.2 ✅ Scoring system
--      ✅ Designed restart button interaction to improve accidental touch issues (changed from tap-to-restart to long-press required)
-- v1.3 ✅ Added left swipe gesture to enter next level
-- v1.4 ✅ Added fist pause gesture and adjusted detection thresholds
+### v1.1
+- ✅ Basic gesture control
+- ✅ Physics engine
+- ✅ Collision detection
+- ✅ Transparent background, players can see themselves
+### v1.2
+- ✅ Scoring system
+- ✅ Designed restart button interaction to improve accidental touch issues (changed from tap-to-restart to long-press required)
+### v1.3
+- ✅ Added left swipe gesture to enter next level
+### v1.4
+- ✅ Added fist pause gesture and adjusted detection thresholds
 
 ### Planned Updates
 - v1.6: More level systems and balls with special abilities
@@ -85,3 +89,4 @@ SimpleGame      # Game class - overall logic control
 - v1.8: More advanced gesture controls
 
 - v1.9: AI functionality integration
+
