@@ -49,7 +49,7 @@ streamlit run main.py
 - 🟤 **Brown Slingshot**: Launch device
 - 🔴 **Red Slingshot Band**: Shows power when stretched
 - 🟢 **Green Circle**: Gesture detection point
-- 🌟 **Yellow Trail**: Bird flight path
+- 🌟 **Yellow Trail**: Ball flight path
 - 🟢 **Semi-transparent Ground**: Game boundary
 
 ## 🔧 Technical Architecture
@@ -83,4 +83,5 @@ SimpleGame      # Game class - overall logic control
 - v1.6: More level systems and balls with special abilities
 - v1.7: Sound effects and animations
 - v1.8: More advanced gesture controls
+
 - v1.9: AI functionality integration
