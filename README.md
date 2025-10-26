@@ -69,7 +69,7 @@ SimpleGame      # Game class - overall logic control
 
 ## 📝 Update Log
 
-### v1.5 - Stable Base Version
+### v1.5 (NOW) - Stable Base Version
 ### v1.1
 - ✅ Basic gesture control
 - ✅ Physics engine
@@ -89,4 +89,5 @@ SimpleGame      # Game class - overall logic control
 - v1.8: More advanced gesture controls
 
 - v1.9: AI functionality integration
+
 
